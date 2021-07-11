@@ -21,6 +21,15 @@
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p></center>
 
+<p align="right">
+  <p align="right">  
+  <!-- Spotify Track -->
+  <!-- [<p align="right"><img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="300" align="right"/>
+  </p>
+ </p>
+
+
 - 🔭 I’m currently working on [Seniment Analysis Using NLP](https://github.com/DewangPatil30/Check_Emotions)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning and Full-Stack Development**
