@@ -31,15 +31,10 @@
 
 
 - 🔭 I’m currently working on [Seniment Analysis Using NLP](https://github.com/DewangPatil30/Check_Emotions)
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning and Full-Stack Development**
-
 - 🗺 I'm currently living in **Bhopal, M.P**
-
 - 🏫 I'm currently studying in [Lakshmi Narain College of Technology, Bhopal](https://lnct.ac.in/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/DewangPatil30/](https://github.com/DewangPatil30/)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Structures/Algorithms and Python**
 
 - 📫 How to reach me **Dewangpatil30081999@gmail.com**
