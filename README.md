@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://fontmeme.com/fonts/ghost-army-stencil-font/"><img src="https://fontmeme.com/permalink/210711/97c4779b51a39baec9e8de1f3982edfc.png" alt="ghost-army-stencil-font" border="0"></a>
+<a href="https://fontmeme.com/fonts/black-stud-font/"><img src="https://fontmeme.com/permalink/210711/ae6149ca3440683fb2e3af03568c4290.png" alt="black-stud-font" border="0"></a>
 </p>
 
 
